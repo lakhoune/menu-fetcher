@@ -10,7 +10,7 @@ You might need to install the Shortcuts App from the AppStore.
 
 There are currently two shortcuts. The first one gets the menu for a mensa that you can select.
 
-This repository hosts two Apple shortcuts and only serves as a documentation tool on how to install the 
+This repository hosts links to two Apple shortcuts and only serves as a documentation tool on how to install the 
 Shortcut on your device. 
 
   * Shortcut with selection: https://www.icloud.com/shortcuts/fd0953e6a9fc4711b91ff2df4a4f31ec
