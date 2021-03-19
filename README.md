@@ -21,7 +21,7 @@ To do this navigate to the `Settings` app and locate the `Shortcuts` listing. En
 Start them by tapping on the shortcut. You can add the Shortcut as a widget on the home screen to get the menu even faster
 
 ### Shortcut with selection
-This shortcut gets the menu inside the app. It asks you to select the canteen for which you want to get the menu and returns a formatted menu
+This shortcut asks the user for which canteen they want to get the menu. The menu is formatted. 
 
 ### Shortcut with default mensa
 This shortcut allows you to set a default mensa when adding it. It will then skip the selection step and send you the menu as a notification. 
